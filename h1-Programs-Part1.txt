@@ -1220,5 +1220,5 @@ https://hackerone.com/h1-ctf/hacktivity?type=team
 https://hackerone.com/h1-ctf?type=team
 https://hackerone.com/h1c-twitter-algorithmic-bias?type=team
 http://hackerone.com/box_private?type=team
-http://hackerone.com/deptofdefense/thanks/2023?type=team
+http://hackerone.com/just-nothing
 http://hackerone.com/govtech-vdp?type=team
